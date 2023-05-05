@@ -1,7 +1,7 @@
 # tets file for running Jenkins
 
-def Suman(x,y):
+def Hari(x,y):
     sum = x+y
     return sum 
 
-print(Suman(50,90))
+print(Hari(50,90))
